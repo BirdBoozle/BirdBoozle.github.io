@@ -1,5 +1,3 @@
-<center><h1>🎂Happy Birthday Babe ❤️!</h1></center>
-
 I hope you have a lovely day! 
 Being 25 won't be easy. 
 It means you'll get:
