@@ -1,5 +1,5 @@
-I hope you have a lovely day! 
-Being 25 won't be easy. 
+I hope you have a lovely day!<br>
+Being 25 won't be easy.<br>
 It means you'll get:
 - [dementia](https://www.who.int/news-room/fact-sheets/detail/gambling "something you can't forget")
 - [balance issues](https://my.clevelandclinic.org/health/diseases/3909-alcoholism "source of your issues")
