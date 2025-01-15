@@ -1,11 +1,10 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>For my Smol Bean</title>
-</head>
-<body>
-    <title>Happy Birthday Babe!</title>
-    <nav></nav>
-</body>
-</html>
+# 🎂Happy Birthday Babe ❤️!
+
+I hope you have a lovely day! Being 25 won't be easy. It means you'll get:
+- [dementia](https://www.who.int/news-room/fact-sheets/detail/gambling)
+- [balancing issues](https://www.who.int/health-topics/alcohol#tab=tab_1)
+- [hearing problems](https://www.who.int/health-topics/hearing-loss#tab=tab_1)
+- [creaky and achy joints](https://www.who.int/health-topics/drugs-psychoactive#tab=tab_1)
+
+Oh wait, you already do!
+
