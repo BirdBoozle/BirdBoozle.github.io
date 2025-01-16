@@ -110,11 +110,7 @@ html {
     font:inherit;
     margin:0
   }
-  .scrollable-div {
-    overflow: auto;
-    height: 200px;
-  }
-  div.body {
+  div {
     background-color: #0086B3;
   }
   button {
