@@ -6,4 +6,4 @@ Being 25 won't be easy. It means you'll get:
 - [creaky and achy joints](https://www.who.int/health-topics/drugs-psychoactive#tab=tab_1 "we both know your problem")
 
 Oh wait, you already do!
-[![facepalm laugh](https://raw.githubusercontent.com/corollari/crying-laughing-facepalm-emoji/master/wechat-emoji.jpg)](/surprise.html)
+[![facepalm laugh](https://raw.githubusercontent.com/corollari/crying-laughing-facepalm-emoji/master/wechat-emoji.jpg)](/pages/surprise.html)
