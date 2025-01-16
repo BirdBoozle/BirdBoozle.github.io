@@ -110,7 +110,7 @@ html {
     font:inherit;
     margin:0
   }
-  div {
+  .body {
     background-color: #0086B3;
   }
   button {
