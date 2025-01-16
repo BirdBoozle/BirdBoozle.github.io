@@ -110,6 +110,10 @@ html {
     font:inherit;
     margin:0
   }
+  .scrollable-div {
+    overflow: auto;
+    height: 200px;
+  }
   button {
     overflow:visible
   }
