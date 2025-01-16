@@ -7,6 +7,9 @@ html {
   body {
     margin:0
   }
+  .body {
+    text-align: center;
+  }
   article,
   aside,
   details,
@@ -109,9 +112,6 @@ html {
     color:inherit;
     font:inherit;
     margin:0
-  }
-  .body {
-    text-align: center;
   }
   button {
     overflow:visible
