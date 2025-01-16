@@ -114,7 +114,7 @@ html {
     overflow: auto;
     height: 200px;
   }
-  .div body {
+  div.body {
     background-color: #0086B3;
   }
   button {
