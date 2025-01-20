@@ -6,4 +6,4 @@ Being 25 won't be easy. It means you'll get:
 - [creaky and achy joints](https://www2.hse.ie/living-well/exercise/being-active-health-condition/arthritis/ "we both know your problem")
 
 Oh wait, you already do!
-[![facepalm laugh](https://raw.githubusercontent.com/corollari/crying-laughing-facepalm-emoji/master/wechat-emoji.jpg)](/pages/surprise.html)
+<a href="/pages/surprise.html"><img src="https://raw.githubusercontent.com/corollari/crying-laughing-facepalm-emoji/master/wechat-emoji.jpg" alt="facepalm laugh" style="width: 200px;height 200px;"></a>
