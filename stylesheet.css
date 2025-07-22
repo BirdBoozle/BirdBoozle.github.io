@@ -8,3 +8,6 @@ ul.navlist {
   margin: 0;
   padding: 0;
 } 
+li navitem {
+    display: inline;
+}
