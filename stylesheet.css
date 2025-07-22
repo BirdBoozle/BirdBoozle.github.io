@@ -3,10 +3,8 @@ body {
     background-image: url(/images/nature_background.png);
     background-size: cover;
 }
-nav {
-    ul {
+ul.navlist {
   list-style-type: none;
   margin: 0;
   padding: 0;
-    } 
-}
+} 
